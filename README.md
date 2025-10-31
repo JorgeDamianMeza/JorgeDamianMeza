@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JorgeDamianMeza
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on NTT Data
-- 📫 How to reach me ...
+Hellow World!
 
 <!---
 JorgeDamianMeza/JorgeDamianMeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
